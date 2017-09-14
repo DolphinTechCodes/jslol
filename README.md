@@ -12,6 +12,6 @@ Run `npm install jslol -g` from your command line
 
 ## Usage
 **jslol is a command-line tool**
-Currently, it has only one command to interpret the "test.lol" file:
+Currently, it has only one command to interpret the "test.lol" test file:
 
-`jslol`
+`jslol test`
