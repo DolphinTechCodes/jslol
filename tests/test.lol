@@ -1,7 +1,7 @@
 
 HAI 1.2 BTW some text
 
-
- VISIBLE     SUM OF -10 AN 3
+I HAS A g ITZ 3
+VISIBLE g
 
 KTHXBYE

@@ -1,9 +1,9 @@
 {
   "name": "jslol",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "LOLCODE interpreter written in JavaScript for Node.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jslol test"
   },
   "bin": {
     "jslol": "bin/jslol"
@@ -12,12 +12,17 @@
   "private": false,
   "keywords": [
     "LOLCODE",
-    "interpreter"
+    "interpreter",
+    "jslol"
   ],
   "author": "DolphinTech",
   "license": "ISC",
   "dependencies": {
     "commander": "^2.11.0",
     "prompt-sync": "^4.1.5"
+  },
+  "repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/DolphinTechCodes/jslol"
   }
 }
