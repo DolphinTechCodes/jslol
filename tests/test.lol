@@ -3,14 +3,13 @@ HAI 1.2 BTW some text
 
 BTW VISIBLE SUM OF "dfg" AN 5
 
-I HAS A var ITZ SUM OF 5 AN 4
+I HAS A var ITZ A BUKKIT
 
-"LOLOLOLOL" 
-VISIBLE IT 
-SMOOSH "LOL" AN "_" AN "CAT" MKAY
 VISIBLE var
-
-BTW VISIBLE MAEK "4.5" A NUMBAR
+var HAS A slot ITZ A BUKKIT
+VISIBLE var'Z slot
+var'Z slot HAS A meow ITZ 3
+VISIBLE var'Z slot'Z meow
 
 
 KTHXBYE
