@@ -9,20 +9,31 @@
     },
     "rules": {
         "indent": [
-            "error",
+            "off",
             4
         ],
         "linebreak-style": [
-            "error",
+            "off",
             "windows"
         ],
         "quotes": [
-            "error",
+            "off",
             "double"
         ],
         "semi": [
-            "error",
+            "off",
             "always"
-        ]
+        ],
+	   "no-redeclare":[
+"off"
+],
+"no-console":[
+"warn"
+],
+
+"no-undef":[
+"off"
+]
+
     }
 }
