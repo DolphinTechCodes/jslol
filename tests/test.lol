@@ -1,37 +1,30 @@
 
 HAI 1.2 BTW some text
 
+I HAS A x ITZ 6
 
+BTW declaration of the BUKKIT
+O HAI IM object
+	BTW creating a variable in a slot
+	I HAS A var ITZ "value"
+	I HAS A name ITZ "bob"
+	I HAS A f ITZ 3
+	BTW creating a function inside the BUKKIT
+	HOW IZ I function  
+		VISIBLE "ASDFGHJK"
 
-I HAS A max
+        
 
-VISIBLE "Please enter maximal number:: " !
-GIMMEH max
-max IS NOW A NUMBR
-max R SUM OF max AN 1
+		I HAS A s ITZ "f"
+		VISIBLE ME'Z SRS s
+		
+		BTW ME'Z SRS s R "joe"
+	IF U SAY SO
+KTHX
 
-HOW IZ I checkin YR n
+BTW VISIBLE object'Z var
 
-IM IN YR checkloop UPPIN YR i TIL BOTH SAEM i AN n
+object IZ function 
 
-BOTH OF DIFFRINT i AN 1 AN...
-BOTH SAEM MOD OF n AN i AN 0, O RLY?
-YA RLY, FOUND YR FAIL
-OIC
-
-IM OUTTA YR checkloop
-
-FOUND YR WIN
-IF U SAY SO
-
-IM IN YR loop UPPIN YR n TIL BOTH SAEM n AN max
-
-
-I IZ checkin YR n, O RLY?
-YA RLY, VISIBLE n
-OIC
-IM OUTTA YR loop
-
-
-
+VISIBLE object'Z name
 KTHXBYE
